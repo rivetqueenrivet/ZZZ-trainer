@@ -12,7 +12,7 @@ A powerful trainer tool for Zenless Zone Zero with clean in-game overlay
 
 ## Features
 
-![1](https://github.com/rivetqueenrivet/zzz-trainer/blob/main/assets/GUI/image.png)
+![ZZZ Cheat Preview Hack](https://github.com/rivetqueenrivet/zzz-trainer/blob/main/assets/GUI/image.png)
 
 | Player | World | Visuals | Misc|
 |-------|--------|-------|------|
