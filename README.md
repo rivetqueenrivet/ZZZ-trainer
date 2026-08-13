@@ -56,19 +56,19 @@ A powerful trainer tool for Zenless Zone Zero with clean in-game overlay
 ## FAQ
 
 ### Is this safe to use?
-The tool only reads and writes game memory — it does not modify any game files or network traffic. However, use at your own risk.
+The tool only reads and writes game memory - it does **not modify** any game files or network traffic. However, use at your own risk.
 
 ### Will I get banned?
-This is a client-side trainer intended for **single-player and private servers only**. Using it on official multiplayer servers is strongly discouraged and violates the game's terms of service.
+Most likely not. Software itself is Undetected, but keep in mind - anyone could report you.
 
 ### Can I customize the hotkey?
-Yes — the default toggle key is `INSERT`, but you can change it in the settings tab.
+Yes, the default toggle key is `INSERT`, but you can change it in the settings tab.
 
 ### Does this work with the latest version?
 The trainer is updated regularly to support the latest game version. Check the releases page for updates.
 
 ### How to uninstall?
-Simply delete the extracted folder — no registry changes or leftover files.
+Simply delete the extracted folder. There are no registry changes or leftover files.
 
 ---
 
