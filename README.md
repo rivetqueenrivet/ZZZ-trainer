@@ -14,33 +14,13 @@ A powerful trainer tool for Zenless Zone Zero with clean in-game overlay
 
 ![1](https://github.com/rivetqueenrivet/zzz-trainer/blob/main/assets/GUI/image.png)
 
-### Player Mods
-- Noclip
-- God Mode
-- Hit Multiplier (Damage)
-
-
-### World
-- Chest Teleport
-- Global Speed
-- Auto skip
-- Mob vacuum
-- Dumb enemies
-- Kill aura
-
-
-### Visuals
-- Peeking
-- Fov Changer
-- Hide UI
-- UID Changer
-
-
-### Misc
-- Unload
-- FPS Indicator
-- FPS Unlock
-- Load/Save/Reset Config
+| Player | World | Visuals | Misc|
+|-------|--------|-------|------|
+| Noclip | Chest Teleport | Peeking | Unload |
+| God Mode | Global Speed | FOV Changer | FPS Indicator |
+| Hit (Damage) Multiplier | Auto skip | Hide UI | FPS Unlock |
+| Kill aura | Mob vacuum | UID Changer | Load/Save/Reset Config |
+| | Dumb enemies | | |
 
 ---
 
